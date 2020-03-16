@@ -35,7 +35,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 30600
+              "duration": 29000
             }
           }
         ],
@@ -48,8 +48,9 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:1"
             },
             "result": {
-              "status": "passed",
-              "duration": 11532700800
+              "status": "failed",
+              "error_message": "Unable to find chromedriver. Please download the server from\nhttps://chromedriver.storage.googleapis.com/index.html and place it somewhere on your PATH.\nMore info at https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver.\n (Selenium::WebDriver::Error::WebDriverError)\n./features/step_definitions/cadastrar_usuario.rb:2:in `\"que estou no site advantage online shopping\"'\nfeatures/specs/cadastrar_usuario.feature:8:in `Dado que estou no site advantage online shopping'",
+              "duration": 208791700
             }
           },
           {
@@ -60,8 +61,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:5"
             },
             "result": {
-              "status": "passed",
-              "duration": 72800
+              "status": "skipped"
             }
           },
           {
@@ -72,8 +72,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:8"
             },
             "result": {
-              "status": "passed",
-              "duration": 1641255100
+              "status": "skipped"
             }
           },
           {
@@ -84,8 +83,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:12"
             },
             "result": {
-              "status": "passed",
-              "duration": 656098800
+              "status": "skipped"
             }
           }
         ]
@@ -112,15 +110,11 @@
             "keyword": "E ",
             "name": "Digito o nome de usuario \"George\"",
             "line": 14,
-            "output": [
-              "George8476"
-            ],
             "match": {
               "location": "features/step_definitions/cadastrar_usuario.rb:16"
             },
             "result": {
-              "status": "passed",
-              "duration": 574571800
+              "status": "skipped"
             }
           },
           {
@@ -131,8 +125,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:23"
             },
             "result": {
-              "status": "passed",
-              "duration": 377827100
+              "status": "skipped"
             }
           },
           {
@@ -143,8 +136,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:27"
             },
             "result": {
-              "status": "passed",
-              "duration": 564904900
+              "status": "skipped"
             }
           },
           {
@@ -155,8 +147,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:31"
             },
             "result": {
-              "status": "passed",
-              "duration": 631130300
+              "status": "skipped"
             }
           },
           {
@@ -167,8 +158,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:35"
             },
             "result": {
-              "status": "passed",
-              "duration": 432818100
+              "status": "skipped"
             }
           },
           {
@@ -179,8 +169,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:39"
             },
             "result": {
-              "status": "passed",
-              "duration": 389294200
+              "status": "skipped"
             }
           },
           {
@@ -191,8 +180,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:43"
             },
             "result": {
-              "status": "passed",
-              "duration": 443397900
+              "status": "skipped"
             }
           },
           {
@@ -203,8 +191,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:47"
             },
             "result": {
-              "status": "passed",
-              "duration": 22690000
+              "status": "skipped"
             }
           },
           {
@@ -215,8 +202,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:52"
             },
             "result": {
-              "status": "passed",
-              "duration": 406534400
+              "status": "skipped"
             }
           },
           {
@@ -227,8 +213,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:56"
             },
             "result": {
-              "status": "passed",
-              "duration": 345058600
+              "status": "skipped"
             }
           },
           {
@@ -239,8 +224,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:60"
             },
             "result": {
-              "status": "passed",
-              "duration": 280913700
+              "status": "skipped"
             }
           },
           {
@@ -251,8 +235,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:64"
             },
             "result": {
-              "status": "passed",
-              "duration": 402195600
+              "status": "skipped"
             }
           },
           {
@@ -263,8 +246,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:68"
             },
             "result": {
-              "status": "passed",
-              "duration": 298777900
+              "status": "skipped"
             }
           },
           {
@@ -275,8 +257,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:72"
             },
             "result": {
-              "status": "passed",
-              "duration": 58100
+              "status": "skipped"
             }
           },
           {
@@ -287,8 +268,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:75"
             },
             "result": {
-              "status": "passed",
-              "duration": 243939200
+              "status": "skipped"
             }
           },
           {
@@ -299,8 +279,7 @@
               "location": "features/step_definitions/cadastrar_usuario.rb:80"
             },
             "result": {
-              "status": "passed",
-              "duration": 1585291500
+              "status": "skipped"
             }
           }
         ],
@@ -311,7 +290,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 249057800
+              "duration": 39200
             }
           }
         ]

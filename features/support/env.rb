@@ -1,6 +1,6 @@
 require "capybara/cucumber"
-# require "selenium-webdriver"
-require "webdrivers/chromedriver"
+require "selenium-webdriver"
+# require "webdrivers/chromedriver"
 require "site_prism"
 require "pry"
 require_relative "helper"
