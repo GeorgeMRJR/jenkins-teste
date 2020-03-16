@@ -4,6 +4,7 @@
 default: -p chrome -p html -p pretty
 ci: -p headless -p json -p pretty
 pretty: --format pretty
+progress: --format progress
 headless: BROWSER=headless
 chrome: BROWSER=chrome
 json: --format json --out=report/report.json
