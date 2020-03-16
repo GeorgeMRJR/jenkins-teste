@@ -1,3 +1,5 @@
-/report/*.html
-/report/*.json
-.lock
+report/*.html
+report/*.json
+report/test_passou*.png
+report/test_falhou*.png
+*.lock
