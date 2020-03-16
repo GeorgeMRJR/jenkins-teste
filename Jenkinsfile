@@ -4,7 +4,7 @@ pipeline {
    stages {
       stage('build') {
          steps {
-            sh "echo 'Hello World'"
+            sh "bundle install"
          }
       }
       stage("Tests"){
